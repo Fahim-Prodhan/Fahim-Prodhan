@@ -1,4 +1,4 @@
-![I am a Full Stack Developer](https://i.ibb.co/8sLzc2Q/is-Ow-Al-Ru-TYylcw-Nl-PWKWFA.png)
+![I am a Full Stack Developer](https://i.ibb.co/tPvqXCsK/fahim-prodhan.png)
 
 ### Hi! I'm Fahim-Prodhan, a passionate web developer skilled in the MERN stack.
 
