@@ -6,14 +6,6 @@
 ## About Me
 I'm Proficient in a wide range of technologies and frameworks, with a strong focus on MERN, JavaScript, Java, Spring Boot, and related technologies. Always excited to explore new things and learn from the outside world as a self-learner. Moreover, I like to develop and create new things with my knowledge and creativity. Check out my projects and feel free to reach out to me on GitHub!
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
@@ -22,7 +14,6 @@ I'm Proficient in a wide range of technologies and frameworks, with a strong foc
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=Fahim-Prodhan&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
-
 
 
 <h2 align="center"> Technologies </h2>
@@ -43,4 +34,12 @@ I'm Proficient in a wide range of technologies and frameworks, with a strong foc
 <img width="60px" src="https://user-images.githubusercontent.com/25181517/202896760-337261ed-ee92-4979-84c4-d4b829c7355d.png"/>
 <img width="60px" src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png"/>
 </p>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
 
