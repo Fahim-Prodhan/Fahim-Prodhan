@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Fahim+Prodhan!;+a+passionate+web+developer;skilled+in+the+MERN+stack" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4500&lines=Hi+There!+👋;+I'm+Fahim+Prodhan!;+a+passionate+web+developer;skilled+in+the+MERN+stack" />
 </h1>
 
 ## About Me
@@ -24,7 +24,8 @@ I'm Proficient in a wide range of technologies and frameworks, with a strong foc
 </div>
 
 
-## Technologies
+
+<h2 align="center"> Technologies </h2>
 <br>
 <p align="center">
 <img width="60px" src="https://user-images.githubusercontent.com/25181517/183897015-94a058a6-b86e-4e42-a37f-bf92061753e5.png"/>
